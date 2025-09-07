@@ -17,11 +17,3 @@ The dataset contains weather-related features like:
 - Atmospheric Pressure  
 - Rainfall (Target variable)  
 
-
-
-## 🛠️ Requirements
-Install the following Python libraries:
-git clone https://github.com/Solitaryseeker/Rainfall-Prediction-using-Linear-Regression.git
-cd Rainfall-Prediction-using-Linear-Regression
-
-pip install pandas numpy matplotlib seaborn scikit-learn
